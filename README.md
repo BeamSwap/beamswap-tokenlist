@@ -17,7 +17,8 @@ Beamswap Tokenlist
       "address": [token_address],
       "symbol": [token_symbol],
       "decimals": [token_decimals],
-      "chainId": 1285
+      "chainId": 1285,
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/[blockchainName]/[token_address]/logo.png"
   }
   ```
 - Make a Pull Request to this repo including all of the above.
