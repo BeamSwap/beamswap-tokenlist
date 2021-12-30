@@ -1,6 +1,6 @@
 {
     "name": "Beamswap Tokenlist",
-    "logoURI": "",
+    "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbase/0xdecB90662901eAA72DAc77eC0Fd92433c2b822e8/logo.png",
     "keywords": [
       "audited",
       "verified",
@@ -45,7 +45,7 @@
     ],
     "version": {
       "major": 1,
-      "minor": 0,
+      "minor": 1,
       "patch": 0
     }
   }
