@@ -1,7 +1,5 @@
 # beamswap-tokenlist
 
-Beamswap Tokenlist
-
 ### Whitelisting instructions
 
 - Fork this repo
