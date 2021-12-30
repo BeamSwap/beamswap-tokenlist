@@ -1,0 +1,51 @@
+{
+    "name": "Beamswap Tokenlist",
+    "logoURI": "",
+    "keywords": [
+      "audited",
+      "verified",
+      "special tokens"
+    ],
+    "tags": {
+        "type": {
+            "name": "official",
+            "description": "official beamswap token list"
+        }
+    },
+    "timestamp": "2020-12-29T00:00:00+00:00",
+    "tokens": [
+      {
+        "chainId": 1287,
+        "address": "0xdecB90662901eAA72DAc77eC0Fd92433c2b822e8",
+        "symbol": "SHARE",
+        "name": "Beamshare Token",
+        "decimals": 18
+      },
+      {
+        "chainId": 1287,
+        "address": "0xBfa45737a5024d178f9DAc159082817f5C50758f",
+        "symbol": "MOCK",
+        "name": "Mock Token",
+        "decimals": 18
+      },
+      {
+        "chainId": 1287,
+        "address": "0x9dCca533798Aae4EC78cFEb057cb7745DcDe3048",
+        "symbol": "WGLMR",
+        "name": "Wrapped Glimmer",
+        "decimals": 18
+      },
+      {
+        "chainId": 1287,
+        "address": "0x2F9A94C1278a1Ca9832580e18dfDE313593851ce",
+        "symbol": "GLINT",
+        "name": "Beamswap Token",
+        "decimals": 18
+      }
+    ],
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    }
+  }
