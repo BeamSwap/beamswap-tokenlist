@@ -45,6 +45,14 @@
         "name": "Beamswap Token",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbase/0x2F9A94C1278a1Ca9832580e18dfDE313593851ce/logo.png"
+      },
+      {
+        "chainId": 1287,
+        "address": "0x65C281140d15184de571333387BfCC5e8Fc7c8dc",
+        "symbol": "USDC",
+        "name": "USDC Token",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbase/0x65C281140d15184de571333387BfCC5e8Fc7c8dc/logo.png"
       }
     ],
     "version": {
