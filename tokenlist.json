@@ -12,23 +12,23 @@
             "description": "official beamswap token list"
         }
     },
-    "timestamp": "2021-12-29T00:00:00+00:00",
+    "timestamp": "2022-01-05T00:00:00+00:00",
     "tokens": [
       {
         "chainId": 1287,
-        "address": "0xdecB90662901eAA72DAc77eC0Fd92433c2b822e8",
+        "address": "0x2919922a6E893d433aAEa82ba21470CCCCEe993C",
         "symbol": "SHARE",
         "name": "Beamshare Token",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbase/0xdecB90662901eAA72DAc77eC0Fd92433c2b822e8/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbase/0x2919922a6E893d433aAEa82ba21470CCCCEe993C/logo.png"
       },
       {
         "chainId": 1287,
-        "address": "0xBfa45737a5024d178f9DAc159082817f5C50758f",
+        "address": "0x0602EA2D9a23f0D7DAA6C157fAe077Ab9278E92A",
         "symbol": "MOCK",
         "name": "Mock Token",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbase/0xBfa45737a5024d178f9DAc159082817f5C50758f/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbase/0x0602EA2D9a23f0D7DAA6C157fAe077Ab9278E92A/logo.png"
       },
       {
         "chainId": 1287,
@@ -40,11 +40,11 @@
       },
       {
         "chainId": 1287,
-        "address": "0x2F9A94C1278a1Ca9832580e18dfDE313593851ce",
+        "address": "0xC81439cf140CAEae699aA52D6e0FB61De3dC2680",
         "symbol": "GLINT",
         "name": "Beamswap Token",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbase/0x2F9A94C1278a1Ca9832580e18dfDE313593851ce/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbase/0xC81439cf140CAEae699aA52D6e0FB61De3dC2680/logo.png"
       },
       {
         "chainId": 1287,
@@ -57,7 +57,7 @@
     ],
     "version": {
       "major": 1,
-      "minor": 2,
+      "minor": 3,
       "patch": 0
     }
   }
