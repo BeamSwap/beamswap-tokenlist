@@ -12,7 +12,7 @@
             "description": "official beamswap token list"
         }
     },
-    "timestamp": "2022-01-05T00:00:00+00:00",
+    "timestamp": "2022-01-06T00:00:00+00:00",
     "tokens": [
       {
         "chainId": 1287,
@@ -53,11 +53,59 @@
         "name": "USDC Token",
         "decimals": 6,
         "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbase/0x65C281140d15184de571333387BfCC5e8Fc7c8dc/logo.png"
+      },
+      {
+        "chainId": 1287,
+        "address": "0xe7b932a60E7d0CD08804fB8a3038bCa6218a7Fa2",
+        "symbol": "BUSD",
+        "name": "BUSD Token",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbase/0xe7b932a60E7d0CD08804fB8a3038bCa6218a7Fa2/logo.png"
+      },
+      {
+        "chainId": 1287,
+        "address": "0x8cbF5008fa8De192209c6A987D0b3C9c3c7586a6",
+        "symbol": "ETH",
+        "name": "ETH Token",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbase/0x8cbF5008fa8De192209c6A987D0b3C9c3c7586a6/logo.png"
+      },
+      {
+        "chainId": 1287,
+        "address": "0xD41A9bc8Df1Fc7520d0491bD627ea399b777C2f2",
+        "symbol": "BNB",
+        "name": "BNB Token",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbase/0xD41A9bc8Df1Fc7520d0491bD627ea399b777C2f2/logo.png"
+      },
+      {
+        "chainId": 1287,
+        "address": "0xEf4BC0F5a3870925157Ce9F5e86F8Ac25bE49f73",
+        "symbol": "DAI",
+        "name": "DAI Token",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbase/0xEf4BC0F5a3870925157Ce9F5e86F8Ac25bE49f73/logo.png"
+      },
+      {
+        "chainId": 1287,
+        "address": "0xe87d5db6D8E884EA4128b9Fb2dd7c2961C67a409",
+        "symbol": "WBTC",
+        "name": "WBTC Token",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbase/0xe87d5db6D8E884EA4128b9Fb2dd7c2961C67a409/logo.png"
+      },
+      {
+        "chainId": 1287,
+        "address": "0x523D8e4Bbb37418f92A74d6D4bA1e225a0A2E176",
+        "symbol": "USDT",
+        "name": "USDT Token",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbase/0x523D8e4Bbb37418f92A74d6D4bA1e225a0A2E176/logo.png"
       }
     ],
     "version": {
       "major": 1,
-      "minor": 3,
+      "minor": 4,
       "patch": 0
     }
   }
