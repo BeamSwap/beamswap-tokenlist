@@ -16,11 +16,11 @@
     "tokens": [
       {
         "chainId": 1287,
-        "address": "0x2919922a6E893d433aAEa82ba21470CCCCEe993C",
+        "address": "0xF774C205a48ad0BEf7F62948FB69B31A8440e534",
         "symbol": "SHARE",
         "name": "Beamshare Token",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbase/0x2919922a6E893d433aAEa82ba21470CCCCEe993C/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbase/0xF774C205a48ad0BEf7F62948FB69B31A8440e534/logo.png"
       },
       {
         "chainId": 1287,
@@ -40,11 +40,11 @@
       },
       {
         "chainId": 1287,
-        "address": "0xC81439cf140CAEae699aA52D6e0FB61De3dC2680",
+        "address": "0x9Ed71581d9B9D5F364766Bd7C192120Ae0b92F88",
         "symbol": "GLINT",
         "name": "Beamswap Token",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbase/0xC81439cf140CAEae699aA52D6e0FB61De3dC2680/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbase/0x9Ed71581d9B9D5F364766Bd7C192120Ae0b92F88/logo.png"
       },
       {
         "chainId": 1287,
