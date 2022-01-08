@@ -12,7 +12,7 @@
             "description": "official beamswap token list"
         }
     },
-    "timestamp": "2022-01-06T00:00:00+00:00",
+    "timestamp": "2022-01-07T00:00:00+00:00",
     "tokens": [
       {
         "chainId": 1287,
@@ -24,11 +24,11 @@
       },
       {
         "chainId": 1287,
-        "address": "0x0602EA2D9a23f0D7DAA6C157fAe077Ab9278E92A",
+        "address": "0x4DAEBF58E2E67f96e73053355F21b360BE4BBF6D",
         "symbol": "MOCK",
         "name": "Mock Token",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbase/0x0602EA2D9a23f0D7DAA6C157fAe077Ab9278E92A/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbase/0x4DAEBF58E2E67f96e73053355F21b360BE4BBF6D/logo.png"
       },
       {
         "chainId": 1287,
@@ -105,7 +105,7 @@
     ],
     "version": {
       "major": 1,
-      "minor": 4,
+      "minor": 5,
       "patch": 0
     }
   }
