@@ -12,15 +12,15 @@
             "description": "official beamswap token list"
         }
     },
-    "timestamp": "2022-01-07T00:00:00+00:00",
+    "timestamp": "2022-01-08T00:00:00+00:00",
     "tokens": [
       {
         "chainId": 1287,
-        "address": "0xF774C205a48ad0BEf7F62948FB69B31A8440e534",
+        "address": "0x108cf604d389B6c3CAe57c4738aEF5148675E6cb",
         "symbol": "SHARE",
         "name": "Beamshare Token",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbase/0xF774C205a48ad0BEf7F62948FB69B31A8440e534/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbase/0x108cf604d389B6c3CAe57c4738aEF5148675E6cb/logo.png"
       },
       {
         "chainId": 1287,
@@ -105,7 +105,7 @@
     ],
     "version": {
       "major": 1,
-      "minor": 6,
+      "minor": 7,
       "patch": 0
     }
   }
