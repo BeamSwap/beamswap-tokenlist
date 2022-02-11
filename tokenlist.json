@@ -197,6 +197,14 @@
         "name": "Fantom",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/fantom/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83/logo.png"
+      },
+      {
+        "chainId": 1284,
+        "address": "0x595c8481c48894771CE8FaDE54ac6Bf59093F9E8",
+        "symbol": "BIFI",
+        "name": "Beefy Finance",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0x595c8481c48894771CE8FaDE54ac6Bf59093F9E8/logo.png"
       }
     ],
     "version": {
