@@ -12,7 +12,7 @@
       "description": "official beamswap token list"
     }
   },
-  "timestamp": "2022-03-10T00:00:00+00:00",
+  "timestamp": "2022-05-03T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 1287,
@@ -221,11 +221,19 @@
       "name": "CougarSwap",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0x2Dfc76901bB2ac2A5fA5fc479590A490BBB10a5F/logo.png"
+    },
+    {
+      "chainId": 1284,
+      "address": "0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080",
+      "symbol": "xcDOT",
+      "name": "XC POLKADOT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080/logo.png"
     }
   ],
   "version": {
     "major": 2,
-    "minor": 6,
+    "minor": 7,
     "patch": 0
   }
 }
