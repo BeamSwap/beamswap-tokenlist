@@ -12,7 +12,7 @@
       "description": "official beamswap token list"
     }
   },
-  "timestamp": "2022-05-05T00:00:00+00:00",
+  "timestamp": "2022-05-06T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 1287,
@@ -227,7 +227,7 @@
       "address": "0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080",
       "symbol": "xcDOT",
       "name": "XC POLKADOT",
-      "decimals": 18,
+      "decimals": 10,
       "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080/logo.png"
     },
     {
@@ -241,7 +241,7 @@
   ],
   "version": {
     "major": 3,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
