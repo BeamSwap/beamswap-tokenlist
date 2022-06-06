@@ -12,7 +12,7 @@
       "description": "official beamswap token list"
     }
   },
-  "timestamp": "2022-05-03T00:00:00+00:00",
+  "timestamp": "2022-05-04T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 1287,
@@ -229,11 +229,19 @@
       "name": "XC POLKADOT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080/logo.png"
+    },
+    {
+      "chainId": 1284,
+      "address": "0x8f552a71EFE5eeFc207Bf75485b356A0b3f01eC9",
+      "symbol": "USDC.nom",
+      "name": "USDC Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0x8f552a71EFE5eeFc207Bf75485b356A0b3f01eC9/logo.png"
     }
   ],
   "version": {
     "major": 2,
-    "minor": 7,
+    "minor": 8,
     "patch": 0
   }
 }
