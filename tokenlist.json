@@ -12,7 +12,7 @@
       "description": "official beamswap token list"
     }
   },
-  "timestamp": "2022-05-11T00:00:00+00:00",
+  "timestamp": "2022-05-12T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 1287,
@@ -284,12 +284,12 @@
       "symbol": "DAI",
       "name": "madDAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xEf4BC0F5a3870925157Ce9F5e86F8Ac25bE49f73/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0x765277EebeCA2e31912C9946eAe1021199B39C61/logo.png"
     }
   ],
   "version": {
     "major": 3,
-    "minor": 6,
+    "minor": 7,
     "patch": 0
   }
 }
