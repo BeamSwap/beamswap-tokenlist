@@ -12,7 +12,7 @@
       "description": "official beamswap token list"
     }
   },
-  "timestamp": "2022-05-10T00:00:00+00:00",
+  "timestamp": "2022-05-11T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 1287,
@@ -272,7 +272,7 @@
     },
     {
       "chainId": 1284,
-      "address": "0x8f552a71EFE5eeFc207Bf75485b356A0b3f01eC9",
+      "address": "0x8e70cD5B4Ff3f62659049e74b6649c6603A0E594",
       "symbol": "USDT",
       "name": "madUSDT",
       "decimals": 6,
@@ -280,7 +280,7 @@
     },
     {
       "chainId": 1284,
-      "address": "0x8f552a71EFE5eeFc207Bf75485b356A0b3f01eC9",
+      "address": "0xc234A67a4F840E61adE794be47de455361b52413",
       "symbol": "DAI",
       "name": "madDAI",
       "decimals": 18,
@@ -289,7 +289,7 @@
   ],
   "version": {
     "major": 3,
-    "minor": 5,
+    "minor": 6,
     "patch": 0
   }
 }
