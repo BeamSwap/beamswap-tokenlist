@@ -12,7 +12,7 @@
       "description": "official beamswap token list"
     }
   },
-  "timestamp": "2022-05-12T00:00:00+00:00",
+  "timestamp": "2022-05-13T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 1287,
@@ -192,14 +192,6 @@
     },
     {
       "chainId": 1284,
-      "address": "0x4204cAd97732282d261FbB7088e07557810A6408",
-      "symbol": "SHARE",
-      "name": "Beamshare Token",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0x4204cAd97732282d261FbB7088e07557810A6408/logo.png"
-    },
-    {
-      "chainId": 1284,
       "address": "0xAcc15dC74880C9944775448304B263D191c6077F",
       "symbol": "WGLMR",
       "name": "Wrapped Glimmer",
@@ -289,7 +281,7 @@
   ],
   "version": {
     "major": 3,
-    "minor": 7,
+    "minor": 8,
     "patch": 0
   }
 }
