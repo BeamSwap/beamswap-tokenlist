@@ -12,7 +12,7 @@
       "description": "official beamswap token list"
     }
   },
-  "timestamp": "2022-05-13T00:00:00+00:00",
+  "timestamp": "2022-05-14T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 1287,
@@ -256,14 +256,6 @@
     },
     {
       "chainId": 1284,
-      "address": "0x8f552a71EFE5eeFc207Bf75485b356A0b3f01eC9",
-      "symbol": "USDC",
-      "name": "madUSDC",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0x8f552a71EFE5eeFc207Bf75485b356A0b3f01eC9/logo.png"
-    },
-    {
-      "chainId": 1284,
       "address": "0x8e70cD5B4Ff3f62659049e74b6649c6603A0E594",
       "symbol": "USDT",
       "name": "madUSDT",
@@ -281,7 +273,7 @@
   ],
   "version": {
     "major": 3,
-    "minor": 8,
+    "minor": 9,
     "patch": 0
   }
 }
