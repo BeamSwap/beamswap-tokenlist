@@ -12,7 +12,7 @@
       "description": "official beamswap token list"
     }
   },
-  "timestamp": "2022-05-14T00:00:00+00:00",
+  "timestamp": "2022-05-15T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 1287,
@@ -269,11 +269,27 @@
       "name": "madDAI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0x765277EebeCA2e31912C9946eAe1021199B39C61/logo.png"
+    },
+    {
+      "chainId": 1284,
+      "address": "0xfFfFFFFF52C56A9257bB97f4B2b6F7B2D624ecda",
+      "symbol": "xcaUSD",
+      "name": "Acala Dollar",
+      "decimals": 12,
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xfFfFFFFF52C56A9257bB97f4B2b6F7B2D624ecda/logo.png"
+    },
+    {
+      "chainId": 1284,
+      "address": "0xFFFFFfFf5AC1f9A51A93F5C527385edF7Fe98A52",
+      "symbol": "xcIBTC",
+      "name": "InterBTC",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xFFFFFfFf5AC1f9A51A93F5C527385edF7Fe98A52/logo.png"
     }
   ],
   "version": {
-    "major": 3,
-    "minor": 9,
+    "major": 4,
+    "minor": 0,
     "patch": 0
   }
 }
