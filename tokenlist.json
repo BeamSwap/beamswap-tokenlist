@@ -12,7 +12,7 @@
       "description": "official beamswap token list"
     }
   },
-  "timestamp": "2022-05-15T00:00:00+00:00",
+  "timestamp": "2022-05-16T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 1287,
@@ -285,11 +285,19 @@
       "name": "InterBTC",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xFFFFFfFf5AC1f9A51A93F5C527385edF7Fe98A52/logo.png"
+    },
+    {
+      "chainId": 1284,
+      "address": "0xffffFFffa922Fef94566104a6e5A35a4fCDDAA9f",
+      "symbol": "xcACA",
+      "name": "Acala",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xffffFFffa922Fef94566104a6e5A35a4fCDDAA9f/logo.png"
     }
   ],
   "version": {
     "major": 4,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
