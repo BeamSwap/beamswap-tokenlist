@@ -1,6 +1,6 @@
 {
   "name": "Beamswap Tokenlist",
-  "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbase/0xdecB90662901eAA72DAc77eC0Fd92433c2b822e8/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xcd3B51D98478D53F4515A306bE565c6EebeF1D58/logo.png",
   "keywords": [
     "audited",
     "verified",
@@ -12,7 +12,7 @@
       "description": "official beamswap token list"
     }
   },
-  "timestamp": "2022-05-17T00:00:00+00:00",
+  "timestamp": "2022-05-18T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 1287,
@@ -305,7 +305,7 @@
   ],
   "version": {
     "major": 4,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }
