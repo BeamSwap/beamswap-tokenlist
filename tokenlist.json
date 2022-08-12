@@ -12,7 +12,7 @@
       "description": "official beamswap token list"
     }
   },
-  "timestamp": "2022-05-16T00:00:00+00:00",
+  "timestamp": "2022-05-17T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 1287,
@@ -293,11 +293,19 @@
       "name": "Acala",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xffffFFffa922Fef94566104a6e5A35a4fCDDAA9f/logo.png"
+    },
+    {
+      "chainId": 1284,
+      "address": "0xCa01a1D0993565291051daFF390892518ACfAD3A",
+      "symbol": "axlUSDC",
+      "name": "Axelar Wrapped USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b/logo.png"
     }
   ],
   "version": {
     "major": 4,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
