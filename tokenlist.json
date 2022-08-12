@@ -12,7 +12,7 @@
       "description": "official beamswap token list"
     }
   },
-  "timestamp": "2022-05-18T00:00:00+00:00",
+  "timestamp": "2022-05-19T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 1287,
@@ -305,7 +305,7 @@
   ],
   "version": {
     "major": 4,
-    "minor": 3,
-    "patch": 0
+    "minor": 4,
+    "patch": 1
   }
 }
