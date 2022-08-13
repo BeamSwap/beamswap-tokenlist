@@ -260,7 +260,7 @@
       "symbol": "USDT",
       "name": "madUSDT",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xC37b5518a30505e1199E8Fb49C64Dc1EB20A4D00/logo.png"
     },
     {
       "chainId": 1284,
@@ -268,7 +268,7 @@
       "symbol": "DAI",
       "name": "madDAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0x765277EebeCA2e31912C9946eAe1021199B39C61/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xf3dd94c1BC65E2359107523E647CFb98aa656B9d/logo.png"
     },
     {
       "chainId": 1284,
