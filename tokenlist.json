@@ -12,7 +12,7 @@
       "description": "official beamswap token list"
     }
   },
-  "timestamp": "2022-05-20T00:00:00+00:00",
+  "timestamp": "2022-05-21T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 1287,
@@ -293,11 +293,19 @@
       "name": "Axelar Wrapped USDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b/logo.png"
+    },
+    {
+      "chainId": 1284,
+      "address": "0xFFfffFFecB45aFD30a637967995394Cc88C0c194",
+      "symbol": "POOP",
+      "name": "Raresama",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xFFfffFFecB45aFD30a637967995394Cc88C0c194/logo.png"
     }
   ],
   "version": {
     "major": 5,
-    "minor": 6,
+    "minor": 7,
     "patch": 2
   }
 }
