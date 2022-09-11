@@ -301,6 +301,14 @@
       "name": "Raresama",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xFFfffFFecB45aFD30a637967995394Cc88C0c194/logo.png"
+    },
+    {
+      "chainId": 1284,
+      "address": "0xFffFFFFF4C1cbCd97597339702436d4F18a375Ab",
+      "symbol": "xcINTR",
+      "name": "Interlay",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xFffFFFFF4C1cbCd97597339702436d4F18a375Ab/logo.png"
     }
   ],
   "version": {
