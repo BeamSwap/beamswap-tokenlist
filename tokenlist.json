@@ -12,7 +12,7 @@
       "description": "official beamswap token list"
     }
   },
-  "timestamp": "2022-05-26T00:00:00+00:00",
+  "timestamp": "2022-05-27T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 1287,
@@ -307,7 +307,7 @@
       "address": "0xFffFFFFF4C1cbCd97597339702436d4F18a375Ab",
       "symbol": "xcINTR",
       "name": "Interlay",
-      "decimals": 18,
+      "decimals": 10,
       "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xFffFFFFF4C1cbCd97597339702436d4F18a375Ab/logo.png"
     },
     {
@@ -321,7 +321,7 @@
   ],
   "version": {
     "major": 6,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
