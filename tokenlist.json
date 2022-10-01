@@ -12,7 +12,7 @@
       "description": "official beamswap token list"
     }
   },
-  "timestamp": "2022-06-27T00:00:00+00:00",
+  "timestamp": "2022-06-28T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 1287,
@@ -316,12 +316,12 @@
       "symbol": "xcUSDT",
       "name": "xcUSDT",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xFFFFFFfFea09FB06d082fd1275CD48b191cbCD1d/logo.png"
     }
   ],
   "version": {
     "major": 7,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
