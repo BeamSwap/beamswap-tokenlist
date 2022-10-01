@@ -104,6 +104,14 @@
     },
     {
       "chainId": 1287,
+      "address": "0xD1633F7Fb3d716643125d6415d4177bC36b7186b",
+      "symbol": "axlUSDC",
+      "name": "Axelar Wrapped USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xD1633F7Fb3d716643125d6415d4177bC36b7186b/logo.png"
+    },
+    {
+      "chainId": 1287,
       "address": "0x523D8e4Bbb37418f92A74d6D4bA1e225a0A2E176",
       "symbol": "USDT",
       "name": "USDT Token",
