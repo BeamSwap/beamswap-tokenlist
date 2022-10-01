@@ -12,7 +12,7 @@
       "description": "official beamswap token list"
     }
   },
-  "timestamp": "2022-05-22T00:00:00+00:00",
+  "timestamp": "2022-06-28T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 1287,
@@ -315,13 +315,21 @@
       "address": "0xFffFFFFF4C1cbCd97597339702436d4F18a375Ab",
       "symbol": "xcINTR",
       "name": "Interlay",
-      "decimals": 18,
+      "decimals": 10,
       "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xFffFFFFF4C1cbCd97597339702436d4F18a375Ab/logo.png"
+    },
+    {
+      "chainId": 1284,
+      "address": "0xFFFFFFfFea09FB06d082fd1275CD48b191cbCD1d",
+      "symbol": "xcUSDT",
+      "name": "xcUSDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xFFFFFFfFea09FB06d082fd1275CD48b191cbCD1d/logo.png"
     }
   ],
   "version": {
-    "major": 5,
-    "minor": 9,
+    "major": 7,
+    "minor": 1,
     "patch": 0
   }
 }
