@@ -12,7 +12,7 @@
       "description": "official beamswap token list"
     }
   },
-  "timestamp": "2022-06-28T00:00:00+00:00",
+  "timestamp": "2022-06-29T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 1287,
@@ -256,22 +256,6 @@
     },
     {
       "chainId": 1284,
-      "address": "0x8e70cD5B4Ff3f62659049e74b6649c6603A0E594",
-      "symbol": "USDT",
-      "name": "madUSDT",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xC37b5518a30505e1199E8Fb49C64Dc1EB20A4D00/logo.png"
-    },
-    {
-      "chainId": 1284,
-      "address": "0xc234A67a4F840E61adE794be47de455361b52413",
-      "symbol": "DAI",
-      "name": "madDAI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xf3dd94c1BC65E2359107523E647CFb98aa656B9d/logo.png"
-    },
-    {
-      "chainId": 1284,
       "address": "0xfFfFFFFF52C56A9257bB97f4B2b6F7B2D624ecda",
       "symbol": "xcaUSD",
       "name": "Acala Dollar",
@@ -328,8 +312,8 @@
     }
   ],
   "version": {
-    "major": 7,
-    "minor": 1,
+    "major": 8,
+    "minor": 0,
     "patch": 0
   }
 }
