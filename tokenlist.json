@@ -281,7 +281,7 @@
     {
       "chainId": 1284,
       "address": "0xCa01a1D0993565291051daFF390892518ACfAD3A",
-      "symbol": "axlUSDC",
+      "symbol": "USDCaxl",
       "name": "Axelar Wrapped USDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b/logo.png"
@@ -312,7 +312,7 @@
     }
   ],
   "version": {
-    "major": 10,
+    "major": 11,
     "minor": 0,
     "patch": 0
   }
