@@ -317,6 +317,14 @@
       "name": "Wrapped Liquid Staked DOT",
       "decimals": 10,
       "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0x191cf2602Ca2e534c5Ccae7BCBF4C46a704bb949/logo.png"
+    },
+    {
+      "chainId": 1284,
+      "address": "0xE065ffaf3f7dED69BB5cf5FDd1Fd1dDA2EEe8493",
+      "symbol": "TFA",
+      "name": "Take Flight Alpha",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xE065ffaf3f7dED69BB5cf5FDd1Fd1dDA2EEe8493/logo.png"
     }
   ],
   "version": {
