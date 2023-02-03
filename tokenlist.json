@@ -12,7 +12,7 @@
       "description": "official beamswap token list"
     }
   },
-  "timestamp": "2022-08-10T00:00:00+00:00",
+  "timestamp": "2023-01-18T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 1287,
@@ -325,11 +325,27 @@
       "name": "Take Flight Alpha",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xE065ffaf3f7dED69BB5cf5FDd1Fd1dDA2EEe8493/logo.png"
+    },
+    {
+      "chainId": 1284,
+      "address": "0xD10078FDbc835726c79533a4a19db40CFAd69d7f",
+      "symbol": "GLMB",
+      "name": "Bananas",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xD10078FDbc835726c79533a4a19db40CFAd69d7f/logo.png"
+    },
+    {
+      "chainId": 1284,
+      "address": "0xc806B0600cbAfA0B197562a9F7e3B9856866E9bF",
+      "symbol": "d2O",
+      "name": "Deuterium",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xc806B0600cbAfA0B197562a9F7e3B9856866E9bF/logo.png"
     }
   ],
   "version": {
     "major": 11,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }
