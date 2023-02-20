@@ -12,7 +12,7 @@
       "description": "official beamswap token list"
     }
   },
-  "timestamp": "2023-01-18T00:00:00+00:00",
+  "timestamp": "2023-01-19T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 1287,
@@ -343,7 +343,7 @@
       "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xc806B0600cbAfA0B197562a9F7e3B9856866E9bF/logo.png"
     },
     {
-      "chainId": 1285,
+      "chainId": 1284,
       "address": "0x2758b57E3C052aE2B66be2E175c8F1980723d7aF",
       "symbol": "DOUBLOON",
       "name": "DPSDoubloon",
@@ -351,7 +351,7 @@
       "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0x2758b57E3C052aE2B66be2E175c8F1980723d7aF/logo.png"
     },
     {
-      "chainId": 1285,
+      "chainId": 1284,
       "address": "0x0e67601818237834fF8A280312a6F4F4934e6283",
       "symbol": "TMAP",
       "name": "TreasureMaps",
@@ -359,7 +359,7 @@
       "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0x0e67601818237834fF8A280312a6F4F4934e6283/logo.png"
     },
     {
-      "chainId": 1285,
+      "chainId": 1284,
       "address": "0x5B08c27c10927eCd8b75EDd8e16cfc448D4bf1e4",
       "symbol": "RUM",
       "name": "DPS Rum",
@@ -369,7 +369,7 @@
   ],
   "version": {
     "major": 11,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   }
 }
