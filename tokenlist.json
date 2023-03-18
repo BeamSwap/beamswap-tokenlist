@@ -212,7 +212,8 @@
       "symbol": "FTM",
       "name": "multiFantom",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xC19281F22A075E0F10351cd5D6Ea9f0AC63d4327/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xC19281F22A075E0F10351cd5D6Ea9f0AC63d4327/logo.png",
+      "archived": true
     },
     {
       "chainId": 250,
@@ -220,7 +221,8 @@
       "symbol": "FTM",
       "name": "Fantom",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/fantom/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/fantom/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83/logo.png",
+      "archived": true
     },
     {
       "chainId": 1284,
@@ -228,7 +230,8 @@
       "symbol": "BIFI",
       "name": "Beefy Finance",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0x595c8481c48894771CE8FaDE54ac6Bf59093F9E8/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0x595c8481c48894771CE8FaDE54ac6Bf59093F9E8/logo.png",
+      "archived": true
     },
     {
       "chainId": 1284,
@@ -236,7 +239,8 @@
       "symbol": "BEANS",
       "name": "MoonBeans",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0x65b09ef8c5A096C5Fd3A80f1F7369E56eB932412/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0x65b09ef8c5A096C5Fd3A80f1F7369E56eB932412/logo.png",
+      "archived": true
     },
     {
       "chainId": 1284,
@@ -244,7 +248,8 @@
       "symbol": "CGS",
       "name": "CougarSwap",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0x2Dfc76901bB2ac2A5fA5fc479590A490BBB10a5F/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0x2Dfc76901bB2ac2A5fA5fc479590A490BBB10a5F/logo.png",
+      "archived": true
     },
     {
       "chainId": 1284,
@@ -324,7 +329,8 @@
       "symbol": "TFA",
       "name": "Take Flight Alpha",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xE065ffaf3f7dED69BB5cf5FDd1Fd1dDA2EEe8493/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xE065ffaf3f7dED69BB5cf5FDd1Fd1dDA2EEe8493/logo.png",
+      "archived": true
     },
     {
       "chainId": 1284,
@@ -368,7 +374,7 @@
     }
   ],
   "version": {
-    "major": 12,
+    "major": 13,
     "minor": 0,
     "patch": 0
   }
