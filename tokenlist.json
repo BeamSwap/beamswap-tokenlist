@@ -389,6 +389,14 @@
       "name": "DPS Rum",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0x5B08c27c10927eCd8b75EDd8e16cfc448D4bf1e4/logo.png"
+    },
+    {
+      "chainId": 1284,
+      "address": "0x4EEaa1fd27c50C64E77272BCdDe68c28F0A3c3D7",
+      "symbol": "ORB",
+      "name": "ORB Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0x4EEaa1fd27c50C64E77272BCdDe68c28F0A3c3D7/logo.png"
     }
   ],
   "version": {
