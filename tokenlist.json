@@ -12,7 +12,7 @@
       "description": "official beamswap token list"
     }
   },
-  "timestamp": "2023-01-27T00:00:00+00:00",
+  "timestamp": "2023-02-27T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 1287,
@@ -397,11 +397,19 @@
       "name": "ORB Token",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0x4EEaa1fd27c50C64E77272BCdDe68c28F0A3c3D7/logo.png"
+    },
+    {
+      "chainId": 1284,
+      "address": "0xFFFFFFFF8CDA1707BAF23834D211B08726B1E499",
+      "symbol": "xcEQD",
+      "name": "Equilibrium",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xFFFFFFFF8CDA1707BAF23834D211B08726B1E499/logo.png"
     }
   ],
   "version": {
     "major": 12,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }
