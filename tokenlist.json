@@ -12,7 +12,7 @@
       "description": "official beamswap token list"
     }
   },
-  "timestamp": "2023-03-27T00:00:00+00:00",
+  "timestamp": "2023-04-27T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 1287,
@@ -409,7 +409,7 @@
     {
       "chainId": 1284,
       "address": "0xFFffffFf7cC06abdF7201b350A1265c62C8601d2",
-      "symbol": "BNC",
+      "symbol": "xcBNC",
       "name": "Bifrost Native Coin",
       "decimals": 12,
       "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xFFffffFf7cC06abdF7201b350A1265c62C8601d2/logo.png"
@@ -417,7 +417,7 @@
     {
       "chainId": 1284,
       "address": "0xFFFfffFf15e1b7E3dF971DD813Bc394deB899aBf",
-      "symbol": "vDOT",
+      "symbol": "xcvDOT",
       "name": "Bifrost Voucher DOT",
       "decimals": 10,
       "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xFFFfffFf15e1b7E3dF971DD813Bc394deB899aBf/logo.png"
@@ -425,7 +425,7 @@
     {
       "chainId": 1284,
       "address": "0xFfFfFFff99dABE1a8De0EA22bAa6FD48fdE96F6c",
-      "symbol": "vGLMR",
+      "symbol": "xcvGLMR",
       "name": "Bifrost Voucher GLMR",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xFfFfFFff99dABE1a8De0EA22bAa6FD48fdE96F6c/logo.png"
@@ -433,7 +433,7 @@
   ],
   "version": {
     "major": 12,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   }
 }
