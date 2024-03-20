@@ -1,18 +1,14 @@
 {
   "name": "Beamswap Tokenlist",
   "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xcd3B51D98478D53F4515A306bE565c6EebeF1D58/logo.png",
-  "keywords": [
-    "audited",
-    "verified",
-    "special tokens"
-  ],
+  "keywords": ["audited", "verified", "special tokens"],
   "tags": {
     "type": {
       "name": "official",
       "description": "official beamswap token list"
     }
   },
-  "timestamp": "2023-04-27T00:00:00+00:00",
+  "timestamp": "2023-04-28T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 1287,
@@ -429,11 +425,19 @@
       "name": "Bifrost Voucher GLMR",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xFfFfFFff99dABE1a8De0EA22bAa6FD48fdE96F6c/logo.png"
+    },
+    {
+      "chainId": 1284,
+      "address": "0xfFfFFfFf30478fAFBE935e466da114E14fB3563d",
+      "symbol": "xcPINK",
+      "name": "PINK",
+      "decimals": 10,
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xfFfFFfFf30478fAFBE935e466da114E14fB3563d/logo.png"
     }
   ],
   "version": {
     "major": 12,
-    "minor": 5,
+    "minor": 6,
     "patch": 0
   }
 }
