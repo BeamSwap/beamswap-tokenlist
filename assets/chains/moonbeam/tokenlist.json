@@ -1,0 +1,8 @@
+{
+    "name": [Cypress Capital],
+    "address": [0x6021D2C27B6FBd6e7608D1F39B41398CAee2F824],
+    "symbol": [CP],
+    "decimals": [18],
+    "chainId": 1284,
+    "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0x6021D2C27B6FBd6e7608D1F39B41398CAee2F824/logo.png"
+}
