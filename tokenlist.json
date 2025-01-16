@@ -1,18 +1,14 @@
 {
   "name": "Beamswap Tokenlist",
   "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xcd3B51D98478D53F4515A306bE565c6EebeF1D58/logo.png",
-  "keywords": [
-    "audited",
-    "verified",
-    "special tokens"
-  ],
+  "keywords": ["audited", "verified", "special tokens"],
   "tags": {
     "type": {
       "name": "official",
       "description": "official beamswap token list"
     }
   },
-  "timestamp": "2023-05-28T00:00:00+00:00",
+  "timestamp": "2023-06-28T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 1287,
@@ -445,11 +441,19 @@
       "name": "DOT is DED",
       "decimals": 10,
       "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0xfFffFFFf5da2d7214D268375cf8fb1715705FdC6/logo.svg"
+    },
+    {
+      "chainId": 1284,
+      "address": "0xFFfffffF7D2B0B761Af01Ca8e25242976ac0aD7D",
+      "symbol": "USDC",
+      "name": "xcUSDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/BeamSwap/beamswap-tokenlist/main/assets/chains/moonbeam/0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b/logo.png"
     }
   ],
   "version": {
     "major": 12,
-    "minor": 8,
-    "patch": 1
+    "minor": 9,
+    "patch": 0
   }
 }
